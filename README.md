@@ -1,4 +1,4 @@
-## <h1 style="color:green">cyndaqua's profile</h1>
+<h1 style="color:green">cyndaqua's profile</h1>
 
 <!--
 **cyndaqua/cyndaqua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
